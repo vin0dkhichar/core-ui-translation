@@ -1,0 +1,33 @@
+{
+  "family": "Family",
+  "families": "Families",
+  "familyMembers": "Family Members",
+  "familymember": "Family Member",
+
+  "family_information": "Family Information",
+  "family info": "Family Info",
+  "family member info": "Family Member Info",
+
+  "family_members": "Family Members",
+  "family_members_records": "Family Members Records",
+  "familyMembersRecords": "Family Members Records",
+
+  "add_family_member": "Add Family Member",
+
+  "birth_date": "Birth Date",
+  "role_in_household": "Role in Household",
+  "Head": "Head",
+  "Dependent": "Dependent",
+
+  "employment_status": "Employment Status",
+  "Student": "Student",
+  "Employed": "Employed",
+  "Self-Employed": "Self-Employed",
+  "Unemployed": "Unemployed",
+  "Homemaker": "Homemaker",
+  "Retired": "Retired",
+
+  "annual_income": "Annual Income",
+
+  "family_name": "Family Name"
+}

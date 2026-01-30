@@ -1,0 +1,33 @@
+{
+  "family": "Familie",
+  "families": "Familien",
+  "familyMembers": "Familienmitglieder",
+  "familymember": "Familienmitglied",
+
+  "family_information": "Familieninformationen",
+  "family info": "Familieninfo",
+  "family member info": "Informationen zum Familienmitglied",
+
+  "family_members": "Familienmitglieder",
+  "family_members_records": "Datensätze der Familienmitglieder",
+  "familyMembersRecords": "Datensätze der Familienmitglieder",
+
+  "add_family_member": "Familienmitglied hinzufügen",
+
+  "birth_date": "Geburtsdatum",
+  "role_in_household": "Rolle im Haushalt",
+  "Head": "Haushaltsvorstand",
+  "Dependent": "Unterhaltsberechtigte Person",
+
+  "employment_status": "Beschäftigungsstatus",
+  "Student": "Student",
+  "Employed": "Angestellt",
+  "Self-Employed": "Selbstständig",
+  "Unemployed": "Arbeitslos",
+  "Homemaker": "Hausfrau/Hausmann",
+  "Retired": "Rentner",
+
+  "annual_income": "Jahreseinkommen",
+
+  "family_name": "Familienname"
+}

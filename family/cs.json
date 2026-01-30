@@ -1,0 +1,33 @@
+{
+  "family": "Rodina",
+  "families": "Rodiny",
+  "familyMembers": "Členové rodiny",
+  "familymember": "Člen rodiny",
+
+  "family_information": "Informace o rodině",
+  "family info": "Informace o rodině",
+  "family member info": "Informace o členovi rodiny",
+
+  "family_members": "Členové rodiny",
+  "family_members_records": "Záznamy členů rodiny",
+  "familyMembersRecords": "Záznamy členů rodiny",
+
+  "add_family_member": "Přidat člena rodiny",
+
+  "birth_date": "Datum narození",
+  "role_in_household": "Role v domácnosti",
+  "Head": "Hlava domácnosti",
+  "Dependent": "Závislá osoba",
+
+  "employment_status": "Pracovní status",
+  "Student": "Student",
+  "Employed": "Zaměstnaný",
+  "Self-Employed": "OSVČ",
+  "Unemployed": "Nezaměstnaný",
+  "Homemaker": "V domácnosti",
+  "Retired": "Důchodce",
+
+  "annual_income": "Roční příjem",
+
+  "family_name": "Název rodiny"
+}
